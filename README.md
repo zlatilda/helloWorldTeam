@@ -1,2 +1,0 @@
-# helloWorldTeam
-For LNU
